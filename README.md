@@ -23,5 +23,3 @@ About website:
    display slightly. Best on Desktop and Tablet.
 2. User may purchase the physical and e-book store.
    E-book can be read directly on the website in "my library" page.
-
-   Test
