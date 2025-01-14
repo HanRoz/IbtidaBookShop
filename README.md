@@ -1,6 +1,6 @@
 Group Name: WebWave
 
-Project Name: Ibtida Books; A Shariah Compliant Online Bookshop
+Project Name: Ibtida Books
 
 Description: This is an e-commerce website that focusing on Bookshop.
              It is a Shariah Compliant website for all book
@@ -21,3 +21,5 @@ About website:
 1. Device Compatibility: The website is designed to be responsive and works on various devices, including desktops, tablets, and smartphones. However, for the best experience, it is optimized for desktops and tablets. Minor display variations might occur on smaller screens.
 2. Shopping Options: Users can purchase both physical books and e-books through the online store.
 3. E-book Features: Purchased e-books are accessible directly on the website via the "My Library" page, allowing users to read them conveniently online.
+4. Discount Voucher: Use the voucher code ibtida2025 at checkout to enjoy a 10% discount on your purchase.
+
