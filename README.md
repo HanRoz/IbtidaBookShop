@@ -9,7 +9,7 @@ Description: This is an e-commerce website that focusing on Bookshop.
 How to run:
 1. Extract the files from the ZIP.
 2. Open 'index.html' in your preferred browser. This will only
-   display the static website because as it only open a direct
+   display the static website because it only open a direct
    single page.
 3. Instead, host the files on a local server using tools like
    'Live Server' for optimal results. This will display better
@@ -18,7 +18,6 @@ How to run:
 * You can open website from the link (https://hanroz.github.io/IbtidaBookShop/) (Best alternative)
 
 About website:
-1. The website is responsive for all devices.
-  The difference in device size may cause slight variations in the display. Best on Desktop and Tablet.
-2. User may purchase the physical and e-book in store.
-   E-book can be read directly on the website in "my library" page.
+1. Device Compatibility: The website is designed to be responsive and works on various devices, including desktops, tablets, and smartphones. However, for the best experience, it is optimized for desktops and tablets. Minor display variations might occur on smaller screens.
+2. Shopping Options: Users can purchase both physical books and e-books through the online store.
+3. E-book Features: Purchased e-books are accessible directly on the website via the "My Library" page, allowing users to read them conveniently online.
